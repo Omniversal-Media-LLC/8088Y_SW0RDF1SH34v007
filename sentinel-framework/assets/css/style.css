@@ -471,3 +471,88 @@ footer {
 ::-webkit-scrollbar-thumb:hover {
     background: var(--highlight-color);
 }
+
+/* Precedent Page Styles */
+.precedent-highlight {
+    background: rgba(255, 215, 0, 0.1);
+    border: 2px solid var(--gold-accent);
+    border-radius: 10px;
+    padding: 2rem;
+    margin: 2rem 0;
+    text-align: center;
+}
+
+.official-links {
+    margin: 3rem 0;
+}
+
+.link-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.5rem;
+    margin: 2rem 0;
+}
+
+.official-link {
+    display: block;
+    padding: 1.5rem;
+    border-radius: 10px;
+    text-decoration: none;
+    color: var(--primary-text);
+    transition: all 0.3s ease;
+    border: 2px solid transparent;
+}
+
+.official-link.gov {
+    background: rgba(0, 100, 200, 0.1);
+    border-color: #0064c8;
+}
+
+.official-link.edu {
+    background: rgba(138, 43, 226, 0.1);
+    border-color: var(--accent-color);
+}
+
+.official-link.local {
+    background: rgba(0, 212, 255, 0.1);
+    border-color: var(--highlight-color);
+}
+
+.official-link:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+}
+
+.official-link h4 {
+    margin-bottom: 0.5rem;
+    color: var(--gold-accent);
+}
+
+.official-link p {
+    margin: 0;
+    font-size: 0.9rem;
+    color: var(--secondary-text);
+}
+
+.visibility-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+    margin: 2rem 0;
+}
+
+.visibility-item {
+    background: rgba(22, 33, 62, 0.4);
+    padding: 1.5rem;
+    border-radius: 8px;
+    border-left: 4px solid var(--accent-color);
+}
+
+.timeline-connection {
+    background: rgba(138, 43, 226, 0.05);
+    border: 1px solid var(--accent-color);
+    border-radius: 10px;
+    padding: 2rem;
+    margin: 3rem 0;
+    text-align: center;
+}

@@ -52,9 +52,10 @@ sentinel-framework/
 - **Organizational Impact**: Skip-level meetings, site visits, policy scrambles triggered by documentation
 
 ### **Legal & Jurisdictional Insulation:**
-- **Omniversal Media, LLC**: EIN-registered, receiving Amazon direct deposits
-- **Mercury Business Account**: No SSN, complete firewall between identity and advocacy
+- **Omniversal Media, LLC**: EIN-registered May 25, 2024 - predates all organizational conflicts
+- **Mercury Business Account**: Banking established May 2024, complete firewall between identity and advocacy
 - **Constitutional Protections**: First Amendment, whistleblower statutes, due process violations documented
+- **Ohio Supreme Court Precedent**: Omniversal Media directly responsible for setting Free Speech precedent in America (2024-Ohio-6176)
 
 ---
 
@@ -106,6 +107,8 @@ python -m http.server 8000
 - **`whitepaper-everlightos.md`**: Technical manifesto on federated intelligence
 - **`assets/please_provide.pdf`**: Primary policy documentation request
 - **`assets/Slack_Request_For_Documentation_Of_Policy_Allegedly_Violated.png`**: Secondary documentation request via Slack
+- **`assets/2024-Ohio-6176.pdf`**: Ohio Supreme Court ruling establishing media access precedent
+- **`assets/ohio-supreme-court-ensures-access-for-all-media.pdf`**: Academic analysis of precedent
 
 ### **🎯 Submission Targets:**
 - **OSHA Regional Office**: Safety violations and retaliation documentation
@@ -161,7 +164,9 @@ They wanted a technician. You gave them a technocrat, strategist, and sovereign 
 - **[Appeals Acknowledgement](assets/AppealsAcknowledgement.png)** - Formal appeals process documentation
 - **[Email Communications](assets/Gmail%20-%20Fw_%20Follow-Up%20on%20Recent%20Discussions%20and%20Communication%20Expectations.pdf)** - Follow-up correspondence
 - **[Training Materials](assets/Rme%20Case%20Study%20Training%20Slides.pdf)** - Official RME case study documentation
-- **[Ohio Supreme Court Ruling](assets/2024-Ohio-6176.pdf)** - Media access rights precedent
+- **[Ohio Supreme Court Ruling](assets/2024-Ohio-6176.pdf)** - **OMNIVERSAL MEDIA PRECEDENT**: Free Speech rights for Press accountability
+- **[Academic Analysis (.edu)](https://firstamendment.mtsu.edu/post/ohio-supreme-court-ensures-access-for-all-media/)** - University documentation of precedent
+- **[Official Court Document (.gov)](https://www.supremecourt.ohio.gov/rod/docs/pdf/0/2024/2024-Ohio-6176.pdf)** - State government legal precedent
 - **[Master Chronology](assets/master_chronology.csv)** - Complete timeline with cross-references
 
 ### **System Screenshots:**
