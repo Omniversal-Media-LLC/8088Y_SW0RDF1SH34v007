@@ -556,3 +556,78 @@ footer {
     margin: 3rem 0;
     text-align: center;
 }
+
+/* Quantum Timing Styles */
+.timing-highlight {
+    background: rgba(0, 212, 255, 0.1);
+    border: 2px solid var(--highlight-color);
+    border-radius: 15px;
+    padding: 2rem;
+    margin: 2rem 0;
+    text-align: center;
+}
+
+.sync-events {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+    margin: 2rem 0;
+}
+
+.sync-event {
+    background: rgba(22, 33, 62, 0.4);
+    padding: 1.5rem;
+    border-radius: 10px;
+    border-left: 4px solid var(--highlight-color);
+    text-align: center;
+}
+
+.news-reference {
+    background: rgba(0, 100, 200, 0.1);
+    border: 2px solid #0064c8;
+    border-radius: 10px;
+    padding: 2rem;
+    margin: 2rem 0;
+}
+
+.news-link {
+    display: block;
+    padding: 1.5rem;
+    background: rgba(0, 100, 200, 0.2);
+    border-radius: 8px;
+    text-decoration: none;
+    color: var(--primary-text);
+    transition: all 0.3s ease;
+}
+
+.everlightos-connection {
+    background: rgba(145, 240, 255, 0.05);
+    border: 2px solid var(--highlight-color);
+    border-radius: 15px;
+    padding: 2rem;
+    margin: 3rem 0;
+    text-align: center;
+}
+
+.implications-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+    margin: 2rem 0;
+}
+
+.implication {
+    background: rgba(22, 33, 62, 0.4);
+    padding: 1.5rem;
+    border-radius: 8px;
+    border-left: 4px solid var(--gold-accent);
+}
+
+.quantum-conclusion {
+    background: rgba(138, 43, 226, 0.1);
+    border: 2px solid var(--accent-color);
+    border-radius: 15px;
+    padding: 3rem 2rem;
+    margin: 3rem 0;
+    text-align: center;
+}
