@@ -814,3 +814,152 @@ footer {
     color: var(--highlight-color);
     margin-bottom: 1rem;
 }
+
+/* Login Interface */
+.login-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+.login-form {
+    background: rgba(22, 33, 62, 0.4);
+    padding: 2rem;
+    border-radius: 10px;
+    border: 2px solid var(--accent-color);
+    margin: 2rem 0;
+}
+
+.form-group {
+    margin-bottom: 1.5rem;
+}
+
+.form-group label {
+    display: block;
+    color: var(--primary-text);
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 0.8rem;
+    border: 2px solid var(--border-color);
+    border-radius: 5px;
+    background: rgba(0, 0, 0, 0.3);
+    color: var(--primary-text);
+    font-size: 1rem;
+}
+
+.form-group input:focus {
+    outline: none;
+    border-color: var(--accent-color);
+    box-shadow: 0 0 10px rgba(138, 43, 226, 0.3);
+}
+
+.access-levels {
+    margin: 3rem 0;
+}
+
+.level-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+    margin: 2rem 0;
+}
+
+.access-level {
+    background: rgba(22, 33, 62, 0.3);
+    padding: 1.5rem;
+    border-radius: 8px;
+    border-left: 4px solid var(--accent-color);
+    position: relative;
+}
+
+.access-level h4 {
+    color: var(--highlight-color);
+    margin-bottom: 0.5rem;
+}
+
+.status {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    padding: 0.3rem 0.8rem;
+    border-radius: 15px;
+    font-size: 0.8rem;
+    font-weight: 600;
+}
+
+.status.available {
+    background: rgba(0, 255, 0, 0.2);
+    color: #00ff00;
+    border: 1px solid #00ff00;
+}
+
+.status.protected {
+    background: rgba(255, 165, 0, 0.2);
+    color: #ffa500;
+    border: 1px solid #ffa500;
+}
+
+.status.restricted {
+    background: rgba(255, 0, 0, 0.2);
+    color: #ff4444;
+    border: 1px solid #ff4444;
+}
+
+.notification-setup {
+    background: rgba(0, 212, 255, 0.1);
+    border: 2px solid var(--highlight-color);
+    border-radius: 10px;
+    padding: 2rem;
+    margin: 3rem 0;
+}
+
+.notification-setup ul {
+    margin: 1rem 0;
+    padding-left: 2rem;
+}
+
+.notification-setup li {
+    margin-bottom: 0.5rem;
+    color: var(--secondary-text);
+}
+
+.access-message {
+    margin: 2rem 0;
+    padding: 1.5rem;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.access-message.success {
+    background: rgba(0, 255, 0, 0.1);
+    border: 2px solid #00ff00;
+    color: #00ff00;
+}
+
+.access-message.denied {
+    background: rgba(255, 0, 0, 0.1);
+    border: 2px solid #ff4444;
+    color: #ff4444;
+}
+
+.access-message.active {
+    background: rgba(0, 212, 255, 0.1);
+    border: 2px solid var(--highlight-color);
+    color: var(--highlight-color);
+}
+
+.btn.enabled {
+    background: rgba(0, 255, 0, 0.2);
+    color: #00ff00;
+    border-color: #00ff00;
+}
+
+.btn.denied {
+    background: rgba(255, 0, 0, 0.2);
+    color: #ff4444;
+    border-color: #ff4444;
+}
