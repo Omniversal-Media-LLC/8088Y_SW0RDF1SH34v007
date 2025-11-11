@@ -22,7 +22,7 @@ Every email, every timestamped file, every CC to legal@omniversalmedia.org was a
 ```
 sentinel-framework/
 ├── index.html              # Hero: "Operational Trust Meets Quantum Sovereignty"
-├── about.html              # Mission and mythic context
+├── about.html              # Mission, methods, and mythic context
 ├── timeline.html           # Chronological evidence with interactive timeline
 ├── gallery.html            # Filterable evidence gallery with modal viewing
 ├── manifesto.html          # Sentinel Sovereignty Manifesto
