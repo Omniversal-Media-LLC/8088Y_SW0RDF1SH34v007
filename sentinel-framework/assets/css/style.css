@@ -784,3 +784,33 @@ footer {
 .contact-info a:hover {
     text-decoration: underline;
 }
+
+/* Evidence Images */
+.evidence-image {
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+    border-radius: 8px;
+    border: 2px solid var(--border-color);
+    margin: 1rem 0;
+    transition: transform 0.3s ease;
+}
+
+.evidence-image:hover {
+    transform: scale(1.02);
+    border-color: var(--accent-color);
+}
+
+.ai-confirmation {
+    background: rgba(0, 212, 255, 0.1);
+    border: 2px solid var(--highlight-color);
+    border-radius: 10px;
+    padding: 1.5rem;
+    margin: 2rem 0;
+    text-align: center;
+}
+
+.ai-confirmation h3 {
+    color: var(--highlight-color);
+    margin-bottom: 1rem;
+}
