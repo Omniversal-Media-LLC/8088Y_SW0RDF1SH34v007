@@ -77,15 +77,16 @@ function initializeNavigation() {
     });
     
     // Active navigation highlighting
-    const navLinks = document.querySelectorAll('nav a');
-    const currentPath = window.location.pathname;
-    
-    navLinks.forEach(link => {
-        if (link.getAttribute('href') === currentPath.split('/').pop()) {
-            link.classList.add('active');
-        }
-    });
-}
+const navLinks = document.querySelectorAll('nav a');
+let current = window.location.pathname.split('/').pop() || 'index.html';
+
+navLinks.forEach(link => {
+  if (link.getAttribute('href') === current ||
+      link.getAttribute('href') === '/' && current === 'index.html') {
+    link.classList.add('active');
+  }
+});
+
 
 // Lattice visualization (for lattice.html page)
 function initializeLatticeVisualization() {
