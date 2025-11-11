@@ -631,3 +631,156 @@ footer {
     margin: 3rem 0;
     text-align: center;
 }
+
+/* Evidence Index Styles */
+.evidence-summary {
+    background: rgba(255, 215, 0, 0.1);
+    border: 2px solid var(--gold-accent);
+    border-radius: 10px;
+    padding: 2rem;
+    margin: 2rem 0;
+    text-align: center;
+}
+
+.category-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    gap: 2rem;
+    margin: 3rem 0;
+}
+
+.evidence-category {
+    background: rgba(22, 33, 62, 0.4);
+    border: 1px solid var(--border-color);
+    border-radius: 10px;
+    padding: 1.5rem;
+}
+
+.evidence-category h3 {
+    color: var(--highlight-color);
+    margin-bottom: 1rem;
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 0.5rem;
+}
+
+.file-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.evidence-file {
+    display: block;
+    padding: 0.75rem;
+    background: rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+    text-decoration: none;
+    color: var(--primary-text);
+    transition: all 0.3s ease;
+    border-left: 3px solid var(--accent-color);
+}
+
+.evidence-file:hover {
+    background: rgba(138, 43, 226, 0.2);
+    transform: translateX(5px);
+}
+
+.evidence-file strong {
+    display: block;
+    color: var(--highlight-color);
+    font-size: 0.9rem;
+    margin-bottom: 0.25rem;
+}
+
+.evidence-file span {
+    font-size: 0.8rem;
+    color: var(--secondary-text);
+}
+
+.search-tools {
+    background: rgba(22, 33, 62, 0.3);
+    border-radius: 10px;
+    padding: 2rem;
+    margin: 3rem 0;
+}
+
+.tool-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+    margin-top: 1rem;
+}
+
+.search-tool {
+    background: rgba(0, 0, 0, 0.3);
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+.search-tool h4 {
+    color: var(--gold-accent);
+    margin-bottom: 0.5rem;
+}
+
+.search-tool ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.search-tool li {
+    margin-bottom: 0.25rem;
+}
+
+.search-tool a {
+    color: var(--primary-text);
+    text-decoration: none;
+    font-size: 0.85rem;
+}
+
+.search-tool a:hover {
+    color: var(--highlight-color);
+}
+
+.download-section {
+    background: rgba(0, 212, 255, 0.1);
+    border: 2px solid var(--highlight-color);
+    border-radius: 10px;
+    padding: 2rem;
+    margin: 3rem 0;
+    text-align: center;
+}
+
+.download-options {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 1rem;
+}
+
+.contact-info {
+    background: rgba(22, 33, 62, 0.4);
+    border-radius: 10px;
+    padding: 2rem;
+    margin: 3rem 0;
+}
+
+.contact-info h2 {
+    color: var(--gold-accent);
+    margin-bottom: 1rem;
+}
+
+.contact-info p {
+    margin-bottom: 0.5rem;
+    font-size: 0.9rem;
+}
+
+.contact-info a {
+    color: var(--highlight-color);
+    text-decoration: none;
+}
+
+.contact-info a:hover {
+    text-decoration: underline;
+}

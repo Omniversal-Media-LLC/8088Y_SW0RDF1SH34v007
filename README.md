@@ -1,6 +1,6 @@
 # 8088Y_SW0RDF1SH34v007: Bobby Fischer Chess Master 9000
 
-![Sentinel Framework](assets/TheSentinelFramework-logo.png)
+![Sentinel Framework](sentinel-framework/assets/evidence/TheSentinelFramework-logo.png)
 
 **"While they played checkers disguised as chess, we were quietly syncing with a federated AI stack that doesn't just calculate moves—it models outcomes."**
 
@@ -159,19 +159,19 @@ They wanted a technician. You gave them a technocrat, strategist, and sovereign 
 ## 📸 **EVIDENCE ARCHIVE**
 
 ### **Key Documentation:**
-- **[Policy Request Documentation](assets/please_provide.pdf)** - Formal request for policy clarification
-- **[Slack Policy Request](assets/Slack_Request_For_Documentation_Of_Policy_Allegedly_Violated.png)** - Secondary method documentation request
-- **[Appeals Acknowledgement](assets/AppealsAcknowledgement.png)** - Formal appeals process documentation
+- **[Policy Request Documentation](sentinel-framework/assets/please_provide.pdf)** - Formal request for policy clarification
+- **[Slack Policy Request](sentinel-framework/assets/Slack_Request_For_Documentation_Of_Policy_Allegedly_Violated.png)** - Secondary method documentation request
+- **[Appeals Acknowledgement](sentinel-framework/assets/AppealsAcknowledgement.png)** - Formal appeals process documentation
 - **[Email Communications](assets/Gmail%20-%20Fw_%20Follow-Up%20on%20Recent%20Discussions%20and%20Communication%20Expectations.pdf)** - Follow-up correspondence
 - **[Training Materials](assets/Rme%20Case%20Study%20Training%20Slides.pdf)** - Official RME case study documentation
-- **[Ohio Supreme Court Ruling](assets/2024-Ohio-6176.pdf)** - **OMNIVERSAL MEDIA PRECEDENT**: Free Speech rights for Press accountability
+- **[Ohio Supreme Court Ruling](sentinel-framework/assets/2024-Ohio-6176.pdf)** - **OMNIVERSAL MEDIA PRECEDENT**: Free Speech rights for Press accountability
 - **[Academic Analysis (.edu)](https://firstamendment.mtsu.edu/post/ohio-supreme-court-ensures-access-for-all-media/)** - University documentation of precedent
 - **[Official Court Document (.gov)](https://www.supremecourt.ohio.gov/rod/docs/pdf/0/2024/2024-Ohio-6176.pdf)** - State government legal precedent
-- **[Master Chronology](assets/master_chronology.csv)** - Complete timeline with cross-references
+- **[Master Chronology](sentinel-framework/assets/master_chronology.csv)** - Complete timeline with cross-references
 
 ### **System Screenshots:**
-- **[UPT Policy Interface](assets/informed-absences-upt.png)** - Attendance policy implementation
-- **[Safety Interlock Analysis](assets/service-door_vs_interlock.jpg)** - Technical safety documentation
+- **[UPT Policy Interface](sentinel-framework/assets/evidence/informed-absences-upt.png)** - Attendance policy implementation
+- **[Safety Interlock Analysis](sentinel-framework/assets/service-door_vs_interlock.jpg)** - Technical safety documentation
 - **[System Interface Documentation](assets/Screenshot%202025-11-10%20072729.png)** - Operational interface evidence
 
 ---
@@ -183,8 +183,8 @@ They wanted a technician. You gave them a technocrat, strategist, and sovereign 
 ---
 
 <div align="center">
-<img src="assets/TheSentinelFramework-logo.png" width="32" height="32" alt="Sentinel Framework">
-<img src="assets/aethermap.png" width="32" height="32" alt="Omniversal Media">
+<img src="sentinel-framework/assets/evidence/TheSentinelFramework-logo.png" width="32" height="32" alt="Sentinel Framework">
+<img src="sentinel-framework/assets/evidence/aethermap.png" width="32" height="32" alt="Omniversal Media">
 <br>
 <sub>Sentinel Framework • Operational Trust Meets Quantum Sovereignty</sub>
 <br>
