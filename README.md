@@ -1,6 +1,6 @@
 # 8088Y_SW0RDF1SH34v007: Bobby Fischer Chess Master 9000
 
-![Sentinel Framework](sentinel-framework/assets/evidence/TheSentinelFramework-logo.png)
+![Sentinel Framework](sentinel-framework/assets/img/logo.png)
 
 **"While they played checkers disguised as chess, we were quietly syncing with a federated AI stack that doesn't just calculate moves—it models outcomes."**
 
