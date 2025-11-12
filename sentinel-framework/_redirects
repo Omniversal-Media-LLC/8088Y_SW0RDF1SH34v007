@@ -26,6 +26,5 @@
 /evidence/*            /evidence/:splat            200
 /regulatory/*          /regulatory/:splat          200
 
-# SPA fallback (internal rewrite, not a redirect)
-# Use 200 here on Cloudflare Pages to avoid redirect ping-pong
-/*                      /index.html                 200
+# Simple 404 fallback for missing pages (no redirect loops)
+/404.html                /404.html                200
